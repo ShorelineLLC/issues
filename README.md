@@ -1,5 +1,6 @@
 # Shoreline Issues
-Public repository for reporting issues for Shoreline client.
+Public repository for reporting issues for Shoreline client. 
+Contact developers at [shorelineclient.net](https://shorelineclient.net/) or at discord.gg/shoreline.
 
 # Bug Reports
 - Make sure that this issue occurs with only Shoreline in your mods folder. Otherwise specifically report the issue as an incompatibility with the loaded mods included in the issue.
